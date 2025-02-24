@@ -8,8 +8,8 @@
 📫 Reach me via Discord: [Join Here](https://discord.gg/dqspzJPTTu)  
 
 ### 🎨 GitHub Stats & Streaks Featured Projects 
-![Chun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chungus1310&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chungus1310&layout=compact&theme=dark)  
+![Power's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poweristsutsun&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poweristsutsun&layout=compact&theme=dark)  
 
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
