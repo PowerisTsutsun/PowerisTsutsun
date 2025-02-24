@@ -28,6 +28,6 @@
 🔹 [Honors Projects](https://github.com/PowerisTsutsun/Honors-Programs): Projects I did to Honers in my College.(cyber based)
 
 ### 💡 Animations or Widgets
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chungus1310&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Poweristsutsun&theme=onedark)
 ----------------
 ![Visitor Count](https://komarev.com/ghpvc/?username=Poweristsutsun&color=blue) 
