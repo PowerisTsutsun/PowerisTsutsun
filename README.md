@@ -10,7 +10,7 @@
 ### 🎨 GitHub Stats & Streaks Featured Projects 
 ![Power's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poweristsutsun&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poweristsutsun&layout=compact&theme=dark) 
-![Streak](https://camo.githubusercontent.com/4ae121dec27186f444b7406d8be5dbfcba53fd4ba1b5826788a0bff49a3ba475/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4368756e67757331333130267468656d653d6461726b26686964655f626f726465723d66616c7365)
+
 
 ### 🧰 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
