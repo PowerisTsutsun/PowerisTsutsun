@@ -24,8 +24,8 @@
 
 
 ### 🚀 Featured Projects  
-🔹 [Discord Bot](https://github.com/PowerisTsutsun/REAL-BERU): Discord bot I made mini-games, event hosting with ranking system and reaction.  
-🔹 [Honors Projects](https://github.com/PowerisTsutsun/Honors-Programs): Projects I considered for joining Honers in my College (cyber based)
+🔹 [Discord Bot](https://github.com/PowerisTsutsun/REAL-BERU): Discord bot I made for mini-games, event hosting with ranking system and reaction.  
+🔹 [Honors Projects](https://github.com/PowerisTsutsun/Honors-Programs): Projects I did to Honers in my College.(cyber based)
 
 ### 💡 Animations or Widgets
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chungus1310&theme=onedark)
