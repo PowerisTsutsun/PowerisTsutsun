@@ -35,10 +35,7 @@
 
 ### 🔝 Top Contributed Repositories
 
-![](<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/83eb8e9fd384f7346ad3ff12e504d60da1dddea96202fc65746f351ac3615d0c/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653dPowerisTsutsun&limit=5&theme=dark&combine_all_yearly_contributions=true">
-  <img src="https://camo.githubusercontent.com/83eb8e9fd384f7346ad3ff12e504d60da1dddea96202fc65746f351ac3615d0c/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653dPowerisTsutsun&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" data-canonical-src="https://github-contributor-stats.vercel.app/api?username=PowerisTsutsun&limit=5&theme=dark&combine_all_yearly_contributions=true" style="max-width: 100%;">
-  </a>
-)
+![](<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/83eb8e9fd384f7346ad3ff12e504d60da1dddea96202fc65746f351ac3615d0c/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653dPowerisTsutsun&limit=5&theme=dark&combine_all_yearly_contributions=true">)
 
 
 
