@@ -1,6 +1,6 @@
 # 👋 Hi, I'm PowerisTsutsun!
-🚀 Passionate about creating intuitive tools in Machine Learning, AI, and GUI development.  
-🎯 Currently working on AI PC Tools and ML Playground.  
+🚀 Passionate about creating intuitive tools in Cybersecurity, and AI.  
+🎯 Currently working on Cyber Tools and Python Cyber Tools.  
 🌱 Learning more about cybersecurity and embedded software engineering.  
 📫 Reach me via Discord: [Join Here](https://discord.gg/dqspzJPTTu)  
 
@@ -15,9 +15,9 @@
 
 
 ### 🚀 Featured Projects  
-🔹 [AI PC Tools](https://github.com/Chungus1310/Ai-pc-tools): Windows assistant with voice commands and system automation.  
-🔹 [ML Playground](https://github.com/Chungus1310/machine-learning-visualiser-mlbb-): Interactive Streamlit app for ML experimentation.  
+🔹 [Discord Bot](https://github.com/PowerisTsutsun/REAL-BERU): Discord bot I made mini-games, event hosting with ranking system and reaction.  
+🔹 [Honors Projects](https://github.com/PowerisTsutsun/Honors-Programs): Projects I considered for joining Honers in my College (cyber based)
 
 ### 💡 Animations or Widgets
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chungus1310&theme=onedark)  
-![Visitor Count](https://komarev.com/ghpvc/?username=Chungus1310&color=blue) 
+![Visitor Count](https://komarev.com/ghpvc/?username=Poweristsutsun&color=blue) 
