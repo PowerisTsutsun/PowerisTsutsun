@@ -12,7 +12,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poweristsutsun&layout=compact&theme=dark) 
 ![Streak](https://camo.githubusercontent.com/4ae121dec27186f444b7406d8be5dbfcba53fd4ba1b5826788a0bff49a3ba475/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4368756e67757331333130267468656d653d6461726b26686964655f626f726465723d66616c7365)
 
-### 🧰 Tech Stack
+### 🧰 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -28,9 +28,12 @@
 🔹 [Discord Bot](https://github.com/PowerisTsutsun/REAL-BERU): Discord bot I made for mini-games, event hosting with ranking system and reaction.  
 🔹 [Honors Projects](https://github.com/PowerisTsutsun/Honors-Programs): Projects I did to Honers in my College.(cyber based)
 
-### 💡 Animations or Widgets
+### 💡 Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Poweristsutsun&theme=onedark)
 ----------------
 ![Visitor Count](https://komarev.com/ghpvc/?username=Poweristsutsun&color=blue)
+
+🔝 Top Contributed Repo
+![](https://camo.githubusercontent.com/83eb8e9fd384f7346ad3ff12e504d60da1dddea96202fc65746f351ac3615d0c/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4368756e67757331333130266c696d69743d35267468656d653d6461726b26636f6d62696e655f616c6c5f796561726c795f636f6e747269627574696f6e733d74727565)
 
 ![](https://camo.githubusercontent.com/b75c72cfed8c542c54fbf29a4f9367bbb14e898578558d96d64c9a8941bec8d1/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f74657226616e696d6174696f6e3d66616465496e)
