@@ -33,8 +33,12 @@
 ----------------
 ![Visitor Count](https://komarev.com/ghpvc/?username=Poweristsutsun&color=blue)
 
-🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Chungus1310&amp;limit=5&amp;theme=dark&amp)
+🔝 ### Top Contributed Repositories
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/83eb8e9fd384f7346ad3ff12e504d60da1dddea96202fc65746f351ac3615d0c/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4368756e67757331333130266c696d69743d35267468656d653d6461726b26636f6d62696e655f616c6c5f796561726c795f636f6e747269627574696f6e733d74727565">
+  <img src="https://camo.githubusercontent.com/83eb8e9fd384f7346ad3ff12e504d60da1dddea96202fc65746f351ac3615d0c/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4368756e67757331333130266c696d69743d35267468656d653d6461726b26636f6d62696e655f616c6c5f796561726c795f636f6e747269627574696f6e733d74727565" alt="Top Contributed Repo" data-canonical-src="https://github-contributor-stats.vercel.app/api?username=PowerisTsutsun&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" style="max-width: 100%;">
+  </a>
+
 
 
 
