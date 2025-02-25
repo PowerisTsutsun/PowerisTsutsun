@@ -9,7 +9,11 @@
 
 ### 🎨 GitHub Stats & Streaks Featured Projects 
 ![Power's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poweristsutsun&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poweristsutsun&layout=compact&theme=dark) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poweristsutsun&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=PowerisTsutsun&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
+
 
 
 ### 🧰 Skills
@@ -33,5 +37,7 @@
 ----------------
 ![Visitor Count](https://komarev.com/ghpvc/?username=Poweristsutsun&color=blue)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PowerisTsutsun&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />
+</p>
 
 ![](https://camo.githubusercontent.com/b75c72cfed8c542c54fbf29a4f9367bbb14e898578558d96d64c9a8941bec8d1/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f74657226616e696d6174696f6e3d66616465496e)
