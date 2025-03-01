@@ -90,7 +90,7 @@
 
 <div align="center">
   <a href="https://github.com/PowerisTsutsun/BERU">
-    <img align="center" src="https://imagedelivery.net/LBWXYQ-XnKSYxbZ-NuYGqQ/5599ee3b-f45e-44ff-5434-4212c3698200/avatarhd" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PowerisTsutsun&repo=BERU&theme=tokyonight" />
   </a>
   <a href="https://github.com/PowerisTsutsun/Honors-Programs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PowerisTsutsun&repo=Honors-Programs&theme=tokyonight" />
@@ -107,7 +107,7 @@
         <h3 align="center">Discord Bot</h3>
         <div align="center">
           <a href="https://github.com/PowerisTsutsun/BERU" target="_blank">
-            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U3eDg1ZG00aTYyaWl0NTd1cHkzemJhcWN6czMwc21odWw1dmN1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVWuLuV1JESZJdebkI/giphy.gif" width="1" alt="Discord Bot"/>
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U3eDg1ZG00aTYyaWl0NTd1cHkzemJhcWN6czMwc21odWw1dmN1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVWuLuV1JESZJdebkI/giphy.gif" width="70" alt="Discord Bot"/>
           </a>
           <p>
             <a href="https://github.com/PowerisTsutsun/BERU" target="_blank">
