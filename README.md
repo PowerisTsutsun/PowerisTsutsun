@@ -90,7 +90,7 @@
 
 <div align="center">
   <a href="https://github.com/PowerisTsutsun/BERU">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PowerisTsutsun&repo=BERU&theme=tokyonight" />
+    <img align="center" src="https://imagedelivery.net/LBWXYQ-XnKSYxbZ-NuYGqQ/5599ee3b-f45e-44ff-5434-4212c3698200/avatarhd" />
   </a>
   <a href="https://github.com/PowerisTsutsun/Honors-Programs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PowerisTsutsun&repo=Honors-Programs&theme=tokyonight" />
