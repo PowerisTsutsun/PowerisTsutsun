@@ -52,8 +52,7 @@
 </div>
 
 <!-- Modern separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a6edaec5c.gif" width="50" height="50" alt="Profile Picture">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25"> <b>Tech Stack</b>
 
@@ -108,7 +107,7 @@
         <h3 align="center">Discord Bot</h3>
         <div align="center">
           <a href="https://github.com/PowerisTsutsun/BERU" target="_blank">
-            <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/discord.svg" width="100" alt="Discord Bot"/>
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U3eDg1ZG00aTYyaWl0NTd1cHkzemJhcWN6czMwc21odWw1dmN1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVWuLuV1JESZJdebkI/giphy.gif" width="1" alt="Discord Bot"/>
           </a>
           <p>
             <a href="https://github.com/PowerisTsutsun/BERU" target="_blank">
