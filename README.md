@@ -1,44 +1,162 @@
-![WECLOME TO MY PROFILE!](https://camo.githubusercontent.com/70033d2cce168bb43194510eecf6acad7ea7a59872c1cf091252106f105a39f1/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3230302673656374696f6e3d68656164657226746578743d57656c636f6d65253230746f2532304d7925323050726f66696c652126666f6e7453697a653d343026666f6e74416c69676e593d343026616e696d6174696f6e3d66616465496e)
+<div align="center">
+  
+  <!-- Custom animated header with better typography and animation -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&lines=This+is+PowerisTsutsun's+Universe;Cybersecurity+%26+AI+Enthusiast;Python+Developer;Problem+Solver" alt="Typing SVG" /></a>
 
 
-# 👋 Hi, I'm PowerisTsutsun!
-🚀 Passionate about creating intuitive tools in Cybersecurity, and AI.  
-🎯 Currently working on Cyber Tools and Python Cyber Tools.  
-🌱 Learning more about cybersecurity and embedded software engineering.  
-📫 Reach me via Discord: [Join Here](https://discord.gg/dqspzJPTTu)  
+  <!-- Quick profile badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=PowerisTsutsun&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+    <a href="https://discord.gg/dqspzJPTTu"><img src="https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+    <img src="https://img.shields.io/github/followers/PowerisTsutsun?label=Followers&style=social" alt="followers" />
+  </p>
 
-### 🎨 GitHub Stats & Streaks Featured Projects 
-![Power's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poweristsutsun&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poweristsutsun&layout=compact&theme=dark)
-<p align="center">
+  <!-- Modern separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>About Me</b>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
+
+<br>
+
+- 🚀 Passionate about creating intuitive tools in **Cybersecurity** and **AI**
+- 🎯 Currently working on **Cyber Tools** and **Python Cyber Tools**
+- 🌱 Learning more about **cybersecurity** and **embedded software engineering**
+- 💡 Open to collaborating on innovative security projects
+- 🎓 Continuously expanding my knowledge in emerging tech fields
+- 📫 Reach me via Discord: [Join Here](https://discord.gg/dqspzJPTTu)
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Analytics</b>
+
+<div align="center">
+  <a href="https://github.com/PowerisTsutsun">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PowerisTsutsun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerisTsutsun&layout=compact&langs_count=8&theme=tokyonight" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PowerisTsutsun&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=PowerisTsutsun&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PowerisTsutsun&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
+<!-- Modern separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🧰 Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25"> <b>Tech Stack</b>
 
+<div align="center">
+  
+  <!-- Programming Languages -->
+  <h3>Programming Languages</h3>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
+  </p>
+  
+  <!-- Frameworks and Technologies -->
+  <h3>Frameworks & Technologies</h3>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  </p>
+  
+  <!-- Web Development -->
+  <h3>Web Development</h3>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  </p>
+</div>
 
-### 🚀 Featured Projects  
-🔹 [Discord Bot](https://github.com/PowerisTsutsun/REAL-BERU): Discord bot I made for mini-games, event hosting with ranking system and reaction.  
-🔹 [Honors Projects](https://github.com/PowerisTsutsun/Honors-Programs): Projects I did to Honers in my College.(cyber based)
+<!-- Modern separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💡 Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Poweristsutsun&theme=onedark)
-----------------
-![Visitor Count](https://komarev.com/ghpvc/?username=Poweristsutsun&color=blue)
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> <b>Featured Projects</b>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chungus1310&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" </p>
+<div align="center">
+  <a href="https://github.com/PowerisTsutsun/BERU">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PowerisTsutsun&repo=BERU&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/PowerisTsutsun/Honors-Programs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PowerisTsutsun&repo=Honors-Programs&theme=tokyonight" />
+  </a>
+</div>
 
+<br>
 
+<div align="center">
+  <!-- Project cards with descriptions -->
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Discord Bot</h3>
+        <div align="center">
+          <a href="https://github.com/PowerisTsutsun/BERU" target="_blank">
+            <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/discord.svg" width="100" alt="Discord Bot"/>
+          </a>
+          <p>
+            <a href="https://github.com/PowerisTsutsun/BERU" target="_blank">
+              <img src="https://img.shields.io/badge/Code-4B32C3?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+          </p>
+          <p>Discord bot for mini-games, event hosting with ranking system and reaction.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Honors Projects</h3>
+        <div align="center">
+          <a href="https://github.com/PowerisTsutsun/Honors-Programs" target="_blank">
+            <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/python.svg" width="100" alt="Honors Projects"/>
+          </a>
+          <p>
+            <a href="https://github.com/PowerisTsutsun/Honors-Programs" target="_blank">
+              <img src="https://img.shields.io/badge/Code-4B32C3?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+          </p>
+          <p>Projects completed for College Honors Programs (cyber based).</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-![](https://camo.githubusercontent.com/b75c72cfed8c542c54fbf29a4f9367bbb14e898578558d96d64c9a8941bec8d1/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f74657226616e696d6174696f6e3d66616465496e)
+<!-- Modern separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="25"> <b>Connect With Me</b>
+<div align="center">
+  <a href="https://discord.gg/dqspzJPTTu" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://github.com/PowerisTsutsun" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<!-- Modern separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2>💭 Quote of the Day</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=PowerisTsutsun&color=blue" alt="Visitor Count" />
+</div>
+
+<!-- Animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/>
