@@ -32,17 +32,12 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Analytics</b>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PowerisTsutsun&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=PowerisTsutsun&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PowerisTsutsun&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+
 
 <!-- Modern separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -81,14 +76,7 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> <b>Featured Projects</b>
 
-<div align="center">
-  <a href="https://github.com/PowerisTsutsun/BERU">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PowerisTsutsun&repo=BERU&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/PowerisTsutsun/Honors-Programs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PowerisTsutsun&repo=Honors-Programs&theme=tokyonight" />
-  </a>
-</div>
+
 
 <br>
 
