@@ -33,13 +33,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Analytics</b>
 
 <div align="center">
-  <a href="https://github.com/PowerisTsutsun">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PowerisTsutsun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerisTsutsun&layout=compact&langs_count=8&theme=tokyonight" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PowerisTsutsun&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
