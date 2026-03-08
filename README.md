@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   
   <!-- Custom animated header with better typography and animation -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=600&lines=This+is+PowerisTsutsun's+Universe;Cybersecurity+%26+AI+Enthusiast;Python+Developer;Problem+Solver" alt="Typing SVG" /></a>
@@ -29,15 +29,6 @@
 - 📫 Reach me via Discord: [Join Here](https://discord.gg/dqspzJPTTu)
 
 <br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Analytics</b>
-
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=PowerisTsutsun&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
-
-
 
 <!-- Modern separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
