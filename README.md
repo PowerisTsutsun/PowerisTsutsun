@@ -131,7 +131,6 @@
   <h2>💭 Quote of the Day</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=PowerisTsutsun&color=blue" alt="Visitor Count" />
 </div>
 
 <!-- Animated footer -->
