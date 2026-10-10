@@ -6,7 +6,6 @@
 
   <!-- Quick profile badges -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=PowerisTsutsun&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
     <a href="https://discord.gg/dqspzJPTTu"><img src="https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
   </p>
 
